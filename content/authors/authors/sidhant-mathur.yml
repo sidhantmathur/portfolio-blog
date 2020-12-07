@@ -1,8 +1,9 @@
-name: Dennis Brotzky
-bio: |
-  Written by Sidhant Mathur. I'm a web developer based out of Austin and Toronto. 
+name: Sidhant Mathur
+bio: >
+  Written by Sidhant Mathur. I'm a web developer based out of Austin and
+  Toronto. 
+featured: true
 avatar: ./avatars/sid-prof.jpeg
 social:
   - url: https://github.com/sidhantmathur
   - url: https://linkedin.com/in/sidhantmathur
-featured: true
