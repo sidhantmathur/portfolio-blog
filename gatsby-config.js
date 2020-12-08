@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://blog.sidhantm.com`,
     description: `Blog of web developer Sidhant Mathur discussing code, no-code, and digital marketing`,
     hero: {
-      heading: `Learning about myself and how I think about tech.`,
+      heading: `Writings on web development, no-code, and digital marketing.`,
       maxWidth: 652,
     },
     social: [
