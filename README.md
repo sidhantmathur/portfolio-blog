@@ -1,5 +1,5 @@
 # Sidhant Blog
 
-Readme
+## [View Blog](https://blog.sidhantkmathur.com/)
 
 Netflify Headless CMS
